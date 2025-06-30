@@ -7,9 +7,9 @@
 - 🛠️ Tech Stack: Python, Java, Spring Boot, Node.js, AWS, C#, Unity, R, Spark
 
 ## 🔥 My Projects
-- 🏢 [Organization Project](https://github.com/org-name/project-name) - Backend & Data Processing
-- 🎮 [AR Campus Tour Game](https://github.com/my-id/ar-campus-game) - Unity + Backend
-- 📦 [Blockchain Trading App](https://github.com/my-id/blockchain-market) - React Native + Smart Contract
+- 🎮 [AR 모바일 유니티 게임 프로젝트](https://github.com/Friends-noonsong) - Unity + Backend
+- 📦 [Blockchain 중고거래 앱 프로젝트](https://github.com/Closhare) - Spring Boot + Solidity + Smart Contract
+- 🏢 [뉴스 추천 웹 프로젝트](https://github.com/Web4mo/29th_1_WEB4MO_WHATSGOINGON_back) - Spring Boot + MySql
 
 ## 💼 Experiences
 - 🔗 Blockchain App Development
